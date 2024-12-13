@@ -51,8 +51,6 @@ def fib_pass():
 
 
 def output_n1():
-
-    # 53316291173
     code = BFCode()
 
     qc = unit.empty[4] # quotient cell
